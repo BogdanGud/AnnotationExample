@@ -9,7 +9,7 @@ public class Calculator {
     }
 
     @MethodTrace(logLevel = Logger.INFO)
-    public static int multiply(int a , int b) {
+    public static int multiply(int a, int b) {
         return a * b;
     }
 
